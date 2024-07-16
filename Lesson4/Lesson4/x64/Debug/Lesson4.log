@@ -1,0 +1,9 @@
+﻿  Lesson4.cpp
+C:\Users\ASUS\source\repos\Lesson4\Lesson4\Lesson4.cpp(12,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson4\Lesson4\Lesson4.cpp(13,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson4\Lesson4\Lesson4.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson4\Lesson4\Lesson4.cpp(29,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson4\Lesson4\Lesson4.cpp(40,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\Lesson4\Lesson4\Lesson4.cpp(67,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson4\Lesson4\Lesson4.cpp(76,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\ASUS\source\repos\Lesson4\x64\Debug\Lesson4.exe for writing
